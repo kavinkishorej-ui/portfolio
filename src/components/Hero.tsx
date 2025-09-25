@@ -1,5 +1,5 @@
 import React from 'react';
-import profile from '../assets/Profile.jpg';
+import profile from '/Profile.jpg';
    // ✅ Keep Profile.jpg inside src
 import { ArrowDown, Github, Linkedin, Mail, Phone } from 'lucide-react';
 
