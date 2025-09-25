@@ -14,7 +14,7 @@ const Hero = () => {
         <div className="mb-8 animate-fade-in-up">
           <div className="w-40 h-40 rounded-full mx-auto mb-6 shadow-2xl animate-float overflow-hidden">
             <img
-              src="/Profile.jpg"   // Place Profile.jpg inside public/ folder
+              src="/img/Profile.jpg"   // Place Profile.jpg inside public/ folder
               alt="Kavin Kishore"
               className="w-full h-full object-cover"
             />
